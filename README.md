@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To get the project running on your local machine please follow the listed directions
 
-### Download [Node.js] (https://nodejs.org/en/download/)
+### Download Node.js (https://nodejs.org/en/download/)
 
 You must download this to get npm which a javascript package manager.
 
